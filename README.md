@@ -1,7 +1,8 @@
 # AirBnb-Europe
 Analysis Tasks for Airbnb guests around the Europe in SQL
 
-1.Analyze the data to identify trends in pricing and occupancy rates across different cities. Provide insights into which cities are most profitable for the company and which room types are in high demand.
+1.  Analyze the data to identify trends in pricing and occupancy rates across different cities.
+    Provide insights into which cities are most profitable for the company and which room types are in high demand.
 
 2.  Correalation between Cleanliness_Rating, Guest Satisfaction and Price.
 
